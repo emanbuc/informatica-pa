@@ -1,6 +1,10 @@
 # Informatica PA
 Raccolta di appunti, documenti, link e codice sull'utilizzo delle tecnologie ICT nella Pubblica Amministrazione
 
+## Codice per l'Amministrazione Digitale
+
+Il punto di riferimento normativo per l'utilizzo delle tecnologie ICT nella Pubblica Amministrazione è il [Codice per l'Amministrazione Digitale (CAD)](codice_amministrazione_digitale/codice_amministrazione_digitale.md)
+
 ## Piano Triennale per L'informatica nelle Pubblica Amministrazione
 
 Il punto di riferimento ufficiale è ovviamente il Piano Triennale definito da AgID. L'edizione 2020-2022 contiene alcune novità interessanti sintetizzate nell'articolo : [Piano Triennale PA 2020-2022](PianoTriennalePA/piano_triennale_agid_2020.md)
