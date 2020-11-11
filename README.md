@@ -1,4 +1,4 @@
-# Informatica PA
+# Informatica e P.A.
 Raccolta di appunti, documenti, link e codice sull'utilizzo delle tecnologie ICT nella Pubblica Amministrazione
 
 ## Codice per l'Amministrazione Digitale
@@ -19,3 +19,8 @@ Raccolta di materiale relativo a concorsi pe rinformatici nella PA. Utile per ut
 
 [Temi di esame di Informatica](Temi_Esame_Informatica)
 
+## Nozioni di Pubblica Amministrazione
+
+Per compredere processi, regole e prassi della P.A. è utile conoscere alcune nozioni di sull'organizzazione della P.A. e sull'attività amministrativa. Nei capitoli di questa sezione brevi trattazione sugli argoment più rilevanti.
+
+[DPR 445/2000 Documentazione Amministrativa](attivita_amministrativa/dpr445_2000_documentazione_amministrativa.md)
