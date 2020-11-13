@@ -30,14 +30,32 @@ Altre disposizione normative aggiuntive sulle stesse materie del CAD sono conten
 - Domicilio digitale PA
 
 ## Firma Digitale
+I CAD prevede che le sottoscrizioni informatiche siano fatte stamite *firma digitale*. La firma digitale è un particolare tipo di firma elettronica che utilizzza una coppai di chiavi (pubblica e privata)
 
-TBC
+Tenicamente la firma digitale di un documento  consiste in un processo di calcolo che associa una serie di dati a quelli del documento attestandone
+ - integrità del documento
+ - idendificazione di chi firma
+ - volontà sottoscrittoria
 
+ La firma digitale integra e sostituisce i tradizionali strumenti di autenticazione come sigilli, punzoni, contrassegni e marchi di qualsiasi tipo previsti dalla normativa vigente.
+
+La firma digitale è collegata ad un *certificato qualificato* che al momento della sottoscrizione non deve essere scaduto o revocato e deve essere conforme alle regole tecniche stabilite dal CAD.
 
 
 ## Documento Informatico
 
-TBC
+Il *documento informatico* è definito nel CAD come la rappresentazione informatica di informazioni, atti, fatti o dati giuridicamente rilevanti.
+
+Ai fini del soddisfacimento del requisito della forma scritta e dell'attribuzione di efficacia il CAd distingue due casi:
+
+1. documento informatico sottoscritto con firma digitale, altro tipo di firma elettronica qualificata, firma elettronica avanzata o formato previa identificazione informatica del suo autore
+      - soddisfa pianamente il requisito di forma scritta
+      ha valore probatorio equivalente al quello del documento cartaceo
+      - documento che non rispetta i requisiti: l'idoneità a soddisfare il requisitio della forma scritta e il valore probatorio sono liberamente valutabili in giudizio
+
+Data e ora di formazione del documento informatico sono opponibili i terzi se sono apposte in conformità alle regole tecniche.
+
+Le copie su supporoto informatico sostituiscono ad ogni effeto di legge gli originali se la conformità all'originale è assicurata da chi lo detiene mediante l'uso della firma digitale e nel rispetto delle regole tecniche.
 
 
 
