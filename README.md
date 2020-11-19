@@ -30,7 +30,7 @@ Per compredere processi, regole e prassi della P.A. è utile conoscere alcune no
 - Nozioni di diritto amministrativo 
 - [Disciplina del procedimento amministrativo (L.n.241/1990)]( attivita_amministrativa/procedimento_amministrativo.md ) 
 - [DPR 445/2000 Documentazione Amministrativa](attivita_amministrativa/dpr445_2000_documentazione_amministrativa.md)
-- Diritto di accesso e accesso civico; 
+- [Diritto di accesso e acceso civico](attivita_amministrativa/diritto_accesso_e_accesso_civico.md) 
 - Elementi di legislazione in materia di protezione dei dati personali e relativo regolamento  UE 2016/679 (GDPR); 
 - Norme in materia di trasparenza ed anticorruzione (D.Lgs. n.33/2013 e L.n.190/2012); 
 - Nozioni in materia di impiego pubblico (D.Lgs n.165/2001 e ss.mm.ii.) e codice di comportamento dei dipendenti pubblici (DPR 62/2013); 
