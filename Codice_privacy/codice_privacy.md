@@ -34,15 +34,74 @@ La finalità della norma è la protezione dei diritti e delle libertà fondament
 
 ### Principi generali del trattamento dei dati
 
-TBC
+Principi a cui deve attenersi ogni attività di trattamento:
+
+**p. Liceità e correttezza**: il trattamento è lecito solo alle condizioni previste dall'articolo 6 del regolamento ovvero:
+
+- Quando l'interessato ha espresso il proprio consenso informato
+- quando il trattamento è necessario per l'esecuzione di un contratto di cui l'interessato è parte
+- il trattamento è necessario per adempiere ad un obbligo di legge
+- il trattamento è necessario per la salvaguardia dei diritti vitali dell'interessato o di altra persona fisica
+- Il trattamento è necessario per l'esecuzione di un compito di interesse pubblico (serve una base giuridica da individuare in una norma di legge o regolamento)
+- il trattamento è necessario per il perseguimento del legittimo interesse del titolare del trattamento
+
+**p. Trasparenza**: le modalità con cui vengono raccolti ed utlizzati i dati devono essere traspaenti
+
+**p. di essenzialità del dato**: occorre sempre valutare gli scopi del trattamento in modo da stabilire quali dati possono essere trattati e quali no
+
+**p. limitazione della finalità dei dati**: devono essere raccolti per finalità determinate e devono essere trattati con modalità compatibile con la finalità. Trattamento per finalità diverse consentito solo se compatibile con finalità iniziale
+
+**p. minimizzazione del uso dei dati**:devono sempre essere paertinenti, adeguati e limitati a quanto necessario per il conseguimento della finalità
+
+**p.esattezza dei dati**:devono essere sempre esatti e aggiornati. Eventuali inesattezze devono essere tempestivamente rettificate o i dati inesatti cancellati.
+
+**p. limitazione della conservazione**: i dati devono esssere conservati per un periodo di tempo limitato al conseguimento delle finalità per le quali sono stati raccolti
+
+**p. integrità e riservatezza**: i dati devono essere trattati in maniera da garantire una sicurezza adeguata prevendendo misure di sicurezzza tecniche ed organizzative idonee a proteggere i dati da trattamenti non autorizzati o illeciti, dalla loro perdita, distruzione o danno accidentale
+
+**p. resposabilizzazione (accountability)**: il titolare del trattamento deve essere in grado di dimostrare di avre adottato un processo complessivo e misure giuridiche, tecniche ed organizzative per la protezione dei dati personali e che i trattamenti sono adeguati e confromi al regolamento europero in materia di privacy.
 
 ### Consenso al trattamento dei dati personali
 
-TBC
+Il consenso è qualsiasi manifestazione di volontà liberà, inequivocabile,specifica, informata dell'interessato. In casi di trattamento di dati di minori di 16 anni la regolazmentazioen EU richiede di acquisire il consenso dei genitori. LE normative nazionil pososno stabilire limiti diversi. La normativa italian richiede il consenso dei genitori per il. minore di 14 anni.
 
-### Il trattamento dei dati
+**inequivocabile**: non è necessario che sia esplicito, può essere anche implicito (non tacito), purchè non sussista alcun dubbio che col proprio comportamento l'interessato abbia voluto comunicare il proprio consenso. 
 
-TBC
+**esplicito**: il consenso deve invece essere esplicito per il trattamento di categorie particolari di dati o nel caso di processi di decisione automatizzati (es. profilazione)
+
+**libero**: l'interessato deve poter scegliere senza intimidazioni o raggiri
+
+**specifico**: relativo alle finalità. Se le finalità sono multiple serve un consenso specifico per ogni finalità
+
+**informato**:l'interessato deve conoscere modalità, finalità, conseguenze del proprio consenso e diritti che gli sono attribuiti per legge
+
+**verificabile**: deve essere possibile dimostrare che l'interessato ha conferito il consenso con riferiemento allo specifico trattamento
+
+**revocabile**: il consenso deve essere revocabile in qualsiasi momento e la revoca non deve essere motivata
+
+### Il trattamento dei dati di categorie particolari
+
+Il GDPR individua le seguenti categorie di dati particolari:
+
+- origine razziale o etnica
+- opinioni politica 
+- convinzioni religiose o filosofiche
+- appartenenza sindacale
+- dati genetici o biometrici intesi ad indentificare in modo univoco una persona fisica
+
+Il trattamento dei dati particolari è lecito 
+
+- con il consenso esplicito dell'interessato
+- per servizre diritto o assolvere obblighi in materia di diritto dle lavoro
+- pe rtutleare l'interesse vitale dell'interessato
+- da una fondazione o associazione senza scopo di lucro nell'ambito delle sue legittimi attività a condizone che il tratamento riguardi i membri (es. associazione religiosa tratta dati su convizioni religiose)
+
+- dati personali resi manifestamente pubblici dall'interessato 
+- per esercitare/difendere un diritto in sede giudiziaria
+- per motivi di interesse pubblico rilevate sulla base di normatiava italiana ed europeea
+- per finalità di medicina preventiva
+- per motivi di interesse pubblivo nell'ambito della sanità pubblica
+- ai fini di arvhiviaizone per il pubblico interesse a fini di ricerca scientifica, storica o statistica.
 
 ### Le informazioni all'interessato
 
