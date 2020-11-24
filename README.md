@@ -1,40 +1,33 @@
 # Informatica e ICT per la P.A: Guida teorica e pratica per informatici
 Raccolta di appunti, documenti, link e codice sull'utilizzo delle tecnologie ICT nella Pubblica Amministrazione. Il contenuto è il frutto della mia personale esperienza come studente, cittadino, candidato a concorsi ed ingegnere infomatico che da molti anni intrattiene rapporti con la P.A. e si occupato a vario titolo di tecnologie ICT.
 
-Da studente ho iniziato ad interessarmi alla digitalizzaizone della pubblica amminstrazione nel 2003 seguendo il corso denominato "Economia e Diritto ICT" nell'ambito del corso di laurea in inegneria dell'informazione. Una dei temi del corso era "e-government" e da appassionato di tecnologia ho compreso le potenzialità dell'amministrazione digitale, intravedendo le enormi possibilità di sviluppo del settore negli anni seguenti. A distanza di 13 anni devo ammettere che alcune delle mie aspettative sono state deluse: l'evoluzione c'è stata ma il percorso è stato più lento e tortuoso di quello che ingenuamente avevo immaginato. Molte dinamiche della P.A. non mi erano chiare e non avevo dato il giusto peso a fattori diversi dall'evoluzione delle tecnologie ICT.
+L'opera è organizzata in cinque sezioni: 
+
+1. La digitalizzazione della P.A. per far crescere un paese e migliorare la vita dei cittadini
+2. [Nozioni di Pubblica Amministrazione]([nozioni_di_pa.md)  (il minimo che ogni informatico dovrebbe conoscere per lavorare bene con la P.A.)
+3. Normativa e linee guida del settore ICT per la P.A.
+4. Tecnologie ICT per la P.A.
+5. Concorsi per informatici nella P.A.
+
+
+
+## Perché è nato questo repository
+
+Per chi si ricorda i tempi in documenti e aplicazioni entravano in floppy disk da 720Kb gli spazi di archiviazione in cloud che si misuano in centinaia di GB o addirittura TB sembrano immensi, ma foto e video a risoluzione sempre più elevata sono in grado di saturare qualsiasi paiano di Storage, indipendentemente dallo spazio disponibile ... è solo questione di tempo!  E fu così che verso negli utlimi mesi del 2020 ho iniziato a ripulire e razionalizzare il contenuto dei vari account per reciperare aulche GB di spazio cancellando cose ormai inutili. Durante questa operazione ho trovato appunti, corsi, libri, materiale per vecchi concorsi ... in un primo momento ho iniziato a cancellare file e cartelle, ma poi ho pensato che produrre e raccogliere quelle informazioni era costato tempo e risorse che non sarebbe stato saggio buttare in un cestino informatico. La soluzione che ho deciso di adottare è stata quello di spostare tutto il materiale dai miei account privati ad un repository pubblico e rendere tutto disponibile con licenza "creative Common". 
+
+## Il mio interesse per la digitalizzazione 
+
+Da studente ho iniziato ad interessarmi alla digitalizzazione della pubblica amminstrazione nel 2003 seguendo il corso denominato "Economia e Diritto ICT" nell'ambito del corso di laurea in inegneria dell'informazione. Una dei temi del corso era "e-government" e da appassionato di tecnologia ho compreso le potenzialità dell'amministrazione digitale, intravedendo le enormi possibilità di sviluppo del settore negli anni seguenti. A distanza di 13 anni devo ammettere che alcune delle mie aspettative sono state deluse: l'evoluzione c'è stata ma il percorso è stato più lento e tortuoso di quello che ingenuamente avevo immaginato. Molte dinamiche della P.A. non mi erano chiare e non avevo dato il giusto peso a fattori diversi dall'evoluzione delle tecnologie ICT.
 
 Nel 2004 ho iniziato ad utilizzare la *firma digitale*
 
 Nel 2010 il mio percorso di formazione a nuovamente incrociato il tema dell'e-government all'interno di un master in business administration. Alla fine di questo percorso di studi ho discusso la tesi intitolata "*La digitalizzazione della Pubblica Amministrazione quale fattore di crescita per le imprese*"
 
-Nel 2013 ho seguito una serie di corsi sull'amministrazione digitale e partecipando ad un concorso per un posto da informatico in una azienda sanitaria ho avuto l'occasione di approfondire l'applicazione delle tecnologie ICT in ambito sanitario. Non ho vinto il concorso, ma ho imparato cose che mi sono state molto utile negli anni successivi.
+Nel 2013 ho seguito una serie di corsi sull'amministrazione digitale e partecipando ad un concorso per un posto da informatico in una azienda sanitaria ho avuto l'occasione di approfondire l'applicazione delle tecnologie ICT in ambito sanitario. Non ho vinto il concorso, ma ho imparato molte cose sul Sistema Sanitario  Nazionale e sui processi di digitalizzazione della sanità che mi sono rivelate utili  negli anni successivi sia in contesti lavorativi che nella vita quotidiana.
 
 Nel 2014 ho iniziato a lavorare in Pegaso2000 come sviluppatore software. Tra i clienti che c'erano anche alcuni enti pubblici e l'azienda partecipava a bandi pubblici per la fornitura di prodotti e servizi alla P.A. ed ho avuto l'accasione di lavorare su vari progetti per la P.A. in ambiti diversi.
 
 Nel 2016 in seguito ad una cessione di ramo d'azienda sono passato a da Pegaso2000 a Smartpeg e ho proseguito la collaborazione con la P.A. partecipando ad altri progetti.
-
-L'opera è organizzata in quattro sezioni principali: 
-
-1. Nozioni di Pubblica Amministrazione (il minimo che ogni informatico dovrebbe conoscere per lavorare bene con la P.A.)
-2. Normativa e linee guida del settore ICT per la P.A.
-3. Tecnologie ICT per la P.A.
-4. Concorsi per informatici
-
-## Nozioni di Pubblica Amministrazione
-
-Per compredere processi, regole e prassi della P.A. è utile conoscere alcune nozioni di sull'organizzazione della P.A. e sull'attività amministrativa. I capitoli di questa sezione affrontano in modo sintetico alcuni degli argomenti più rilevanti per chi si occupa di innovazione ed ICT.
-
-- Ordinamento delle Autonomie Locali (T.U. 267/2000 e ss.mm.ii.); 
-- Nozioni di diritto penale con particolare riferimento ai delitti contro la pubblica amministrazione; 
-- Nozioni di contabilità bilancio degli Enti locali (struttura, principi e programmazione con particolare riferimento al D.Lgs.118/2011); 
-- Nozioni di diritto amministrativo 
-- [Disciplina del procedimento amministrativo (L.n.241/1990)]( attivita_amministrativa/procedimento_amministrativo.md ) 
-- [DPR 445/2000 Documentazione Amministrativa](attivita_amministrativa/dpr445_2000_documentazione_amministrativa.md)
-- [Diritto di accesso e acceso civico](attivita_amministrativa/diritto_accesso_e_accesso_civico.md) 
-- Elementi di legislazione in materia di protezione dei dati personali e relativo regolamento  UE 2016/679 (GDPR); 
-- Norme in materia di trasparenza ed anticorruzione (D.Lgs. n.33/2013 e L.n.190/2012); 
-- Nozioni in materia di impiego pubblico (D.Lgs n.165/2001 e ss.mm.ii.) e codice di comportamento dei dipendenti pubblici (DPR 62/2013); 
-- Nozioni in materia di Codice dei contratti pubblici di lavori, forniture e servizi (D.Lgs.n.50/2016 e ss.mm.ii.); 
 
 ## Normativa e Linee Guida di ICT per la P.A.
 
