@@ -26,7 +26,7 @@ La finalità della norma è la protezione dei diritti e delle libertà fondament
 
 **titolare del trattamento**: la perosna fisica o giuridica che determina la finalità e i mezzi del trattamento di dati personali
 
-**responsabile del trattamento**: perosona fisica o giuridica che tratta i dati personali per conto del titolare
+**responsabile del trattamento**: perosona fisica o giuridica che tratta i dati personali per conto del titolare. Il rapporto tra il titolare ed il responsabile deve essere disciplinato tramite u contratto scritto.
 
 **destinatario**: perosona fisica o giuridica che riceve comunicazioni di dati personali
 
@@ -105,16 +105,65 @@ Il trattamento dei dati particolari è lecito
 
 ### Le informazioni all'interessato
 
-TBC
+I principi di correttezza e trasparenza implicano che l'interessato sia informato dell'esistenza del trattamento e delle sue finalità. I contenuti dell'informativa sono elencati in modo tassativo nel GDPR. Il titolare deve sempre specificare:
+
+- dati di contatto del responsabile del trattamento e del DPO
+- la base giuridica del trattamento (compreso eventuale interesse legittimo se quersto è la base del trattamento)
+- se trasferisce dati in altri paesi e attraverso quali strumenti
+- il periodo di conservazione o i criteri seguiti per stabilire il periodo di conservazione
+- deve informare l'interessato sul diritto di presentare reclamo all'autorità di controllo
+- se il trattamento comporta processi decisionali automatizzati (es profilazione), la logica di tali processi e le conseguenze previste per l'interessato
 
 ### I diritti dell'interessato
 
-TBC
+ Diritti dell'interessato:
 
-### Soggetti interessati al trattamento
+ diritto di accesso
 
-TBC
+- d. di rettifica
+- d. alla cancellazione o diritto all'oblio
+- d. di limitaizone del trattamento
+- d. alla portabilità dei dati
+- d. di opposizione
+
+L'interessato può rivolgersi direttamente al titola per ottenere informazioni, per comunicazioni e per esercitarei suoi diritti. Possono esistere delle limitazioni ai diritti dell'interessato per esigenze di tutela di altri interessi giuridici. Ad esempio
+
+- normative a protezione delle vittime di estorsione
+- Normativa antiriciclaggio
+- attività di commissioni parlamentari
+- svolgimento delle investigazioni difensive
+
+
+
+### Il Responsabile della Protezione dei dati personali (DPO)
+
+Data Protectio Officer (DPO) deve possedere competenze giuridiche, informatiche e gestionali. Il suo compito è quello di osservare valutare e organizzare la gestione del trattamento dei dati personali, affinche questi siano trattati in modo lecito e pertinente.
+
+Il DPO deve sempre essere tempestivamente ed adeguatamente coinvolto in tutte le questioni riguardanti la protezione dei dati personali. 
+
+La nomina è obbligatoria per:
+
+- trattamenti effettuati da enti pubblici
+- monitoraggi regolari su larga scala
+- trattamento di dati personali particolari di cui all'art. 9
+
+### Adempimenti da parte del titolare e del responsabile
+
+Registro dei trattamenti obbligatorio per organizzazioni con più di 250 dipendenti
+
+Il titolare ed il responsabile devono adottare misure tecniche ed organizzative tali da garantire un livello di sicurezza adeguato al rischio. In particolare devono;
+
+- assicurare riservatezz , integrità e disponibilità dei e la solidità dei sistemi di trattamento
+- ripristinare tempestivamente la disponibilità in caso di incidente fisico o tecnico
+- adottare una procedura per testare regolarmente l'efficacia delle misure tecniche ed organizzative
+- assicurarsi che chiuque agisca sotto la loro autorità è abbia accesso ai dati, non tratti i dati se non è istruito dal titolare dle trattamento
 
 ### Le Autorità di controllo
 
-TCB
+Ogni stato dell'unione deve prevdere una o più autorità di controllo. In Italia è il Garante per la PRotezione dei Dati Personali i cui compiti sono:
+
+- controllare se i trattamenti sono effettuati nel rispeotto della disciplina applicabile
+- trattare i reclami presentati
+- denunciare fatti perseguibili come reali persguibili di ufficio
+
+L'interessa to può proporre reclamo al Garante o , in alternativa, ricorere al giudice (tribunale ordinario). 
