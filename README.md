@@ -36,7 +36,7 @@ Il punto di riferimento normativo principale per l'utilizzo delle tecnologie ICT
 Oltre al CAD ci sono poi una serie di linee guida, solitamente pubblicate dal' Agenzia per l'Italia Digitale (AgID) che è necessario conoscrere ed applicare all'interno della P.A. . L'elendo dei documenti pubblicati da AgID è molto esteso. I principali sono:
 
 - [Piano Triennale per L'informatica nelle Pubblica Amministrazione edizione 2020-2022](PianoTriennalePA/piano_triennale_agid_2020.md)
-- Misure minime di sicurezza
+- [Misure minime di sicurezza](https://github.com/emanbuc/Appunti_Qualita_e_Sicurezza_Informatica/blob/main/misure_minime_sicurezza_agid_2017.md)
 - Protocollo Informatico
 - Firme digitali
 - Posta elettornica PEC
@@ -92,6 +92,10 @@ Analisi dati e datawarehouse
 - https://www.oracle.com/it/database/what-is-a-data-warehouse/ 
 - https://www.bucap.it/news/approfondimenti-tematici/gestione-del-magazzino/database-data-warehouse-principali-differenze.htm 
 - ETL, ELT
+  - https://www.talend.com/it/resources/elt-tools/
+  - https://www.xplenty.com/blog/etl-vs-elt/
+  - https://blog.panoply.io/etl-vs-elt-the-difference-is-in-the-how
+  - 
 
 Metodologie di analisi, sviluppo, gestione e manutenzione di applicativi software e tecnologie per la transizione al digitale; 
 
